@@ -29,7 +29,7 @@
 			<td><form:select path="country">
 				<form:option value="0" label="Select" />
 				<form:option value="1" label="HYD" />
-				<form:option value="2" label="SEC" />
+				<form:option value="2" label="AUS" />
 				<form:option value="3" label="EAST" />
 				<form:option value="4" label="WEST" />
 			</form:select></td>
